@@ -1,2 +1,3 @@
-# coursera-progfun2-scala
-Functional Program Design in Scala
+# Functional Program Design in Scala
+https://www.coursera.org/learn/progfun2
+
